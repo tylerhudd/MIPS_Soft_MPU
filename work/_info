@@ -1,0 +1,401 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Tyler/Documents/School/CPE 300L/Lab 10/Lab 10/Lab 10/exp4
+vAccumulator
+!s110 1462027947
+!i10b 1
+!s100 7ie4[[9fUf=hGF^:1ee2G3
+Icd`Zcnz9:gTk374Wf84Xi2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Tyler/Documents/School/CPE 300/FinalProject
+w1461991523
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v
+L0 1
+Z2 OV;L;10.4b;61
+r1
+!s85 0
+31
+Z3 !s108 1462027947.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v|
+!i113 1
+Z4 o-work work
+n@accumulator
+vaddrel
+Z5 !s110 1462027948
+!i10b 1
+!s100 :T=2Hh2`oGUVOITgzOh3f2
+I`2oE3zK1^mV2[img=GBk]0
+R0
+R1
+w1461895020
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v
+L0 1
+R2
+r1
+!s85 0
+31
+R3
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v|
+!i113 1
+R4
+vALU
+R5
+!i10b 1
+!s100 `72LoiF6E3PbXdOVI;DMQ3
+IIS[1bKE^ibRjO3d4iMlHe2
+R0
+R1
+w1461866104
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1462027948.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v|
+!i113 1
+R4
+n@a@l@u
+vAmux
+R5
+!i10b 1
+!s100 EVIKfMjoOWT0j4MiJbc^W0
+IZb?QX_]@A8g1K]0^FWP;F3
+R0
+R1
+w1461779511
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v|
+!i113 1
+R4
+n@amux
+vcontroller
+Z7 !s110 1462121908
+!i10b 1
+!s100 ?k=gl@Y4`H<^Y5i1bZCUO3
+IIJQe=HDcRa;2Jl@1cFgl=2
+R0
+R1
+w1462121895
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z8 !s108 1462121908.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v|
+!i113 1
+R4
+vdatapath
+!s110 1462028755
+!i10b 1
+!s100 =J73DT^9zT<9fSL9JGg@81
+I;BMBPSa<IMj3X;=f0?3RE2
+R0
+R1
+w1462028744
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1462028755.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v|
+!i113 1
+R4
+vincr
+Z9 !s110 1462027949
+!i10b 1
+!s100 UVfZEEhG6gS4;n_70CA;21
+I]J29OPSUkgaLXUXUiDRl91
+R0
+R1
+w1461780520
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z10 !s108 1462027949.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v|
+!i113 1
+R4
+vIReg
+R9
+!i10b 1
+!s100 9MzUUdY7loDoXgWET=XlM1
+IGl6BdDo_YdLgEdc;m67=W3
+R0
+R1
+w1461986149
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v
+L0 1
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v|
+!i113 1
+R4
+n@i@reg
+vJMPmux
+R9
+!i10b 1
+!s100 mC_4YcKHU`jE@[93MHOLL3
+I`LH:7NlEBS2II6B]4m?3i3
+R0
+R1
+w1461990674
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v
+L0 1
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v|
+!i113 1
+R4
+n@j@m@pmux
+vMA
+Z11 !s110 1462027950
+!i10b 1
+!s100 F>@anShYO:T_Ka4`4G`@@0
+IbCnd3[^zD1@@eC>eM_hR=2
+R0
+R1
+w1461990833
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v
+L0 1
+R2
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v|
+!i113 1
+R4
+n@m@a
+vmem
+R11
+!i10b 1
+!s100 Ck?NF3[]^FK?KUgVAU5CR3
+IKV0PR8E`:jIUi:[XAed1?2
+R0
+R1
+w1461994864
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z12 !s108 1462027950.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v|
+!i113 1
+R4
+vMemInstmux
+R11
+!i10b 1
+!s100 P^AfGcVhM`T_Of3Sl0E]73
+IaE@N<gT6B[c1ZT2PL@QRX1
+R0
+R1
+w1461779773
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v
+L0 1
+R2
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v|
+!i113 1
+R4
+n@mem@instmux
+voutputReg
+R11
+!i10b 1
+!s100 4R6o5i?zLBX]Iag6n1ObZ2
+IjDB@j3`Jg?9`f=d:dKk8a0
+R0
+R1
+w1461991518
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v
+L0 1
+R2
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v|
+!i113 1
+R4
+noutput@reg
+vPC
+R11
+!i10b 1
+!s100 WZ5L0iVSBlQNmh6TP0W>M0
+IoGXl>BYOgc^43Fa[B=6TE1
+R0
+R1
+w1461994078
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v
+L0 1
+R2
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v|
+!i113 1
+R4
+n@p@c
+vRF
+Z13 !s110 1462027951
+!i10b 1
+!s100 cegOjhLc=SdB^jh2GlLc;1
+I4NFU92lfKFER2_TBco:V>0
+R0
+R1
+w1462027942
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z14 !s108 1462027951.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v|
+!i113 1
+R4
+n@r@f
+vShifter
+R13
+!i10b 1
+!s100 >k[d0^P^eN9:HQHIf5>_L1
+I1=AF=V6?[<KV=Vgm8UOm]2
+R0
+R1
+w1461866133
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v
+L0 1
+R2
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v|
+!i113 1
+R4
+n@shifter
+vsubrel
+R13
+!i10b 1
+!s100 C?j@;1PSWIkK8Hm_m3;b<2
+IAKUS>HVZ6[5UXXHN04j`K0
+R0
+R1
+w1461895029
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v
+L0 1
+R2
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v|
+!i113 1
+R4
+vtestbench
+!s110 1462121990
+!i10b 1
+!s100 ZX<I`:[3oz?]1QT:6meU=1
+I:o5_BQ`15AlRi9^X=LGgX0
+R0
+R1
+w1462121972
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1462121990.000000
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v|
+!i113 1
+R4
+vtop
+R7
+!i10b 1
+!s100 Z[06BW@_Be[P7AmEVDYRQ3
+I0TgQJj=hoLiZXUi8Ya6iH2
+R0
+R1
+w1462121896
+8C:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v
+FC:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v
+L0 1
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v|
+!i113 1
+R4

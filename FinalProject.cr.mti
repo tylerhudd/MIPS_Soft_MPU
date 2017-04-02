@@ -1,0 +1,134 @@
+{C:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/outputReg.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module outputReg
+
+Top level modules:
+	outputReg
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MemInstmux.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module MemInstmux
+
+Top level modules:
+	MemInstmux
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/PC.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/MA.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module MA
+
+Top level modules:
+	MA
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/mem.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/IReg.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module IReg
+
+Top level modules:
+	IReg
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/testbench.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/RF.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Accumulator.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Accumulator
+
+Top level modules:
+	Accumulator
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/JMPmux.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module JMPmux
+
+Top level modules:
+	JMPmux
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/top.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Amux.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Amux
+
+Top level modules:
+	Amux
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/incr.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module incr
+
+Top level modules:
+	incr
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/addrel.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module addrel
+
+Top level modules:
+	addrel
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/Shifter.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v} {1 {vlog -work work -stats=none {C:/Users/Tyler/Documents/School/CPE 300/FinalProject/subrel.v}
+Model Technology ModelSim ALTERA vlog 10.4b Compiler 2015.05 May 27 2015
+-- Compiling module subrel
+
+Top level modules:
+	subrel
+
+} {} {}}

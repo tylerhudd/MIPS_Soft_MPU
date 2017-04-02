@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at controller.v(218): always construct contains both blocking and non-blocking assignments File: C:/Users/Tyler/Documents/School/CPE 300/FinalProject/controller.v Line: 218
